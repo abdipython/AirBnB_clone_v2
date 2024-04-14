@@ -145,3 +145,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ******This is the start of my Work as Abdipython/Abdulrahman saumu Working on thois repo forked from justinmatich *******
 
 1.I renamed the repo to AirBnB_clone_v2
+2. runned unittest 
+3. I updated the console.py command syntax
